@@ -12,3 +12,4 @@ El propósito de este repositorio es registrar y documentar mi avance en la lóg
 
 ## 🙌 Agradecimientos
 Gracias a **Alura LATAM** por la iniciativa de #7DaysOfCode que motiva a los desarrolladores a practicar y mejorar sus habilidades diariamente.
+
